@@ -32,3 +32,9 @@ This project manages books, students, and issued records with features like dupl
    ```sh
    git clone https://github.com/jalpatel9108-creator/Library-Management-System-C
    cd library-management-system-c
+2. Compile the Program
+      gcc main.c -o lms.exe
+3. Run the Program
+      lms.exe
+
+5. 
